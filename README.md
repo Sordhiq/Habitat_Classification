@@ -5,6 +5,6 @@ This project was part of the [Gainforest](gainforest.earth) AI+ Environment [Eco
 
 Although still having lots of room for improvement, this project is particularly essential in consolidating existing efforts in areas of application of ML in better understanding eDNA sequencing and alignment for ecological interventions. We are really excited about the many possibilities this holds and its overall impacts on nature and biodiversity conservation efforts.
 
-Poster paper:[here](https://file.notion.so/f/f/592f10fa-b2fe-4de7-84d7-d47ef5244493/ea9ef973-eb29-4489-b45e-cfe9040fc5ac/SpaceM_Poster.pptx.pdf?table=block&id=406ba64f-8421-455f-91e1-9ffa855f6266&spaceId=592f10fa-b2fe-4de7-84d7-d47ef5244493&expirationTimestamp=1725033600000&signature=0UwL1ief3Shp-r43JttYHpUL60IiU_C9NFmCdxgUjkY&downloadName=SpaceM+Poster.pptx.pdf)
+Poster paper: [here](https://file.notion.so/f/f/592f10fa-b2fe-4de7-84d7-d47ef5244493/ea9ef973-eb29-4489-b45e-cfe9040fc5ac/SpaceM_Poster.pptx.pdf?table=block&id=406ba64f-8421-455f-91e1-9ffa855f6266&spaceId=592f10fa-b2fe-4de7-84d7-d47ef5244493&expirationTimestamp=1725033600000&signature=0UwL1ief3Shp-r43JttYHpUL60IiU_C9NFmCdxgUjkY&downloadName=SpaceM+Poster.pptx.pdf)
 
 Model deployment: [huggingface](https://huggingface.co/spaces/SpaceM/Team_SpaceM)
