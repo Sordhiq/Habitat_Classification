@@ -7,4 +7,4 @@ Although still having lots of room for improvement, this project is particularly
 
 Poster paper: [here](https://file.notion.so/f/f/592f10fa-b2fe-4de7-84d7-d47ef5244493/ea9ef973-eb29-4489-b45e-cfe9040fc5ac/SpaceM_Poster.pptx.pdf?table=block&id=406ba64f-8421-455f-91e1-9ffa855f6266&spaceId=592f10fa-b2fe-4de7-84d7-d47ef5244493&expirationTimestamp=1725033600000&signature=0UwL1ief3Shp-r43JttYHpUL60IiU_C9NFmCdxgUjkY&downloadName=SpaceM+Poster.pptx.pdf)
 
-Model deployment: [huggingface](https://huggingface.co/spaces/SpaceM/Team_SpaceM)
+Model deployment: [huggingface](https://huggingface.co/spaces/SpaceM/Team_SpaceM) 
